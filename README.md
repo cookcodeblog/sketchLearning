@@ -14,6 +14,7 @@
 
 ## Userful Links
 
+* [iOS human interface guide](https://developer.apple.com/ios/human-interface-guidelines)
 * [iOS移动产品APP界面设计规范](http://www.jianshu.com/p/f7cfd4899e33)
 * [Sketch cheat sheets](http://www.cheetyr.com/sketch)
 * [iPhone屏幕尺寸、分辨率及适配](http://blog.csdn.net/phunxm/article/details/42174937)
